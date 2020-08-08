@@ -1,0 +1,185 @@
+
+---Downloaded files---
+The import files for: Main demo were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://wpestate2.wpestate.info
+Data file = /home/nfu9d/wpestate2/wp-content/themes/wpresidence/wpestate_templates/main-demo/theme_content.xml
+Widget file = /home/nfu9d/wpestate2/wp-content/themes/wpresidence/wpestate_templates/main-demo/widgets.wie
+Customizer file = /home/nfu9d/wpestate2/wp-content/themes/wpresidence/wpestate_templates/main-demo/wpresidence-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Multiple currency widget - Currency - Imported
+Wp Estate: List Properties by Categories - Our Listings - Imported
+Wp Estate: Latest Listing  - Featured Properties - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate: Social Links - Social Links: - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Agents Agencies Developers Search Widget - Search Widget for Agents, Agencies &amp; Developers - Imported
+Wp Estate: Advanced Search - Properties Search Widget - Imported
+Wp Estate: List Properties by Categories - Our Listings - Imported
+Wp Estate: Latest Listing  - Featured Properties - Imported
+
+First Footer Widget Area : 
+
+Text - WP RESIDENCE - Imported
+Wp Estate: Social Links - No Title - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: Contact - CONTACT US - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Latest Listing  - LATEST PROPERTIES - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: List Properties by Categories - LISTINGS BY CATEGORY - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Multiple currency widget - No Title - Imported
+Wp Estate: Measurement Unit Widget - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Text - No Title - Imported
+Wp Estate: Social Links - No Title - Imported
+
+Sidebar Menu Widget Area - Before Menu : 
+
+Search - No Title - Imported
+
+Sidebar Menu Widget Area - After Menu : 
+
+Text - WP RESIDENCE - Imported
+
+Header4 Widget Area : 
+
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate Twitter Widget - Latest Tweets - Imported
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Splash Page Bottom Right Widget Area : 
+
+Text - No Title - Imported
+
+Splash Page Bottom Left Widget Area : 
+
+Wp Estate: Social Links - Social Links: - Imported
+
+blog-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Recent Posts - No Title - Imported to Inactive
+Search - Search Keyword - Imported to Inactive
+Wp Estate: Latest Listing  - Featured Listings - Imported to Inactive
+
+contact-us : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate Twitter Widget - Latest Tweets - Imported to Inactive
+Wp Estate: Facebook Box - Facebook Widget - Imported to Inactive
+
+advanced-search : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Multiple currency widget - Change Your Currency - Imported to Inactive
+Wp Estate: Advanced Search - Advanced Search - Imported to Inactive
+Wp Estate: Login &amp; Register - No Title - Imported to Inactive
+Wp Estate: Contact - Contact - Imported to Inactive
+Wp Estate: Featured Listing - No Title - Imported to Inactive
+Wp Estate: Latest Listing  - Latest Listings - Imported to Inactive
+Wp Estate: Mortgage - No Title - Imported to Inactive
+Wp Estate Zillow Estimate Widget - Estimate your home - Imported to Inactive
+
+featured : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Latest Listing  - No Title - Imported to Inactive
+
+featured2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+property-list : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Advanced Search - Advanced Search - Imported to Inactive
+Wp Estate: List Properties by Categories - List by Categories - Imported to Inactive
+Wp Estate: List Properties by Categories - List by Types - Imported to Inactive
+Wp Estate: List Properties by Categories - List by Cities - Imported to Inactive
+Wp Estate: List Properties by Categories - List by Areas - Imported to Inactive
+
+all-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Agents Agencies Developers Search Widget - NEW: Agents, Agencies and Developers Search - Imported to Inactive
+Wp Estate: Measurement Unit Widget - NEW: Measurement Unit - Imported to Inactive
+Wp Estate: Multiple currency widget - Change Your Currency - Imported to Inactive
+Wp Estate: Advanced Search - Search Properties - Imported to Inactive
+Wp Estate: Featured Listing - No Title - Imported to Inactive
+Wp Estate: Latest Listing  - Latest Featured Listings - Imported to Inactive
+Wp Estate: List Properties by Categories - Our Listings - Imported to Inactive
+Wp Estate: Featured Agent - No Title - Imported to Inactive
+Wp Estate: Login &amp; Register - No Title - Imported to Inactive
+Wp Estate: Contact - Contact Us - Imported to Inactive
+Recent Posts - Latest Posts - Imported to Inactive
+Search - No Title - Imported to Inactive
+Wp Estate: Mortgage - No Title - Imported to Inactive
+Wp Estate Zillow Estimate Widget - Estimate your home - Imported to Inactive
+Wp Estate: Social Links - Social Links: - Imported to Inactive
+Wp Estate: Facebook Box - Find us on Facebook - Imported to Inactive
+
+login : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+demo1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+
+blog1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+blog2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+widgetized-element-homepage-v2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Mortgage - No Title - Imported to Inactive
+
+adv-search-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Advanced Search - Properties Search - Imported to Inactive
+
+search-for-agency : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Agents Agencies Developers Search Widget - Search Widget for Agents, Agencies &amp; Developers - Imported to Inactive
+
+agent-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

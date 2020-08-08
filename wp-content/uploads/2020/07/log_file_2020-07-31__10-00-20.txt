@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: Main demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://wp-residencerobertduff:8888
+Data file = /Sites/WP-ResidenceRobertDuff/wp-content/themes/wpresidence/wpestate_templates/main-demo/theme_content.xml
+Widget file = /Sites/WP-ResidenceRobertDuff/wp-content/themes/wpresidence/wpestate_templates/main-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /Sites/WP-ResidenceRobertDuff/wp-content/themes/wpresidence/wpestate_templates/main-demo/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2019-09-26__08-29-54" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2019-09-26__08-29-54" (Media)
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Multiple currency widget - Currency - Imported
+Wp Estate: List Properties by Categories - Our Listings - Imported
+Wp Estate: Latest Listing  - Featured Properties - Imported
+Wp Estate: Measurement Unit Widget - No Title - Imported
+Wp Estate: Multiple currency widget - No Title - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate: Social Links - Social Links: - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Agents Agencies Developers Search Widget - Search Widget for Agents, Agencies &amp; Developers - Imported
+Wp Estate: Advanced Search - Properties Search Widget - Imported
+Wp Estate: List Properties by Categories - Our Listings - Imported
+Wp Estate: Latest Listing  - Featured Properties - Imported
+
+First Footer Widget Area : 
+
+Wp Estate: Contact - contact us - Imported
+Wp Estate: Social Links - No Title - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: List Properties by Categories - listings by category - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Latest Listing  - latest properties - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+
+Sidebar Menu Widget Area - Before Menu : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Sidebar Menu Widget Area - After Menu : 
+
+Text - WP RESIDENCE - Imported
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Splash Page Bottom Right Widget Area : 
+
+Text - No Title - Imported
+
+Splash Page Bottom Left Widget Area : 
+
+Wp Estate: Social Links - Social Links: - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---pt-ocdi/after_import---
+
